@@ -1,5 +1,6 @@
 
 Pygorithm
+#一个可以学习Python所有基础算法的模块
 =========
 
 .. image:: https://readthedocs.org/projects/pygorithm/badge/?version=latest
